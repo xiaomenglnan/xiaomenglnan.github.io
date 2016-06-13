@@ -32,7 +32,6 @@ tags: Booklist schedule reading report
 
 剩下的两本书如果这周把统计做完，应该晚上的时候就有时间看了，如果不行的话，估计就得下个周末了。
 
-## 
 
 
 
