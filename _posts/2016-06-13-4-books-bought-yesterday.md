@@ -15,3 +15,5 @@ tags: Booklist schedule reading report
 
 -	[京华烟云](https://book.douban.com/subject/1391191/)
 -   [最好的我们](https://book.douban.com/subject/24754316/)
+-	[无声告白](https://book.douban.com/subject/26382433/)
+-	[偷影子的人](https://book.douban.com/subject/10763902/)
