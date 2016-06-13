@@ -23,7 +23,7 @@ tags: Github Jekyll 搭建静态博客 blog xiaomenglnan 使用多说评论系�
 首先改了下_config.yml文件，其余的比较简单，里面的百度统计id找了一会儿，原来是这样的:
 
 
-![百度统计](/_photos/baidutongji.png)
+![百度统计](/photos/baidutongji.png)
 
 
 中间的那一堆数字加字母就是所谓的百度统计id了，把它替换成自己的，再等差不多20分钟，就可以在在百度统计的后台看到自己博客的访问信息了。
