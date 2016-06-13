@@ -19,4 +19,5 @@ tags: Booklist schedule reading report
 -	[偷影子的人](https://book.douban.com/subject/10763902/)
 
 > 老师昨天又催我课题做的怎么样，所以估计每天下班之后还要在公司加个班做课题，书可能要留到周末才能开始看。可能我也会再写一个怎么搭建博客的文章，深深感到在github上搭博客
-真是有简单又省钱。
+
+> 真是有简单又省钱。
