@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "learn-javascript-from-ruanxuefeng-day01"
+title: "2016-06-15-learn-javascript-from-ruanxuefeng-day01"
 date: 2016-06-15 19-57-12
 categories: Javascript
 tags: Javascript 阮雪峰 study-notes technology
