@@ -2,7 +2,7 @@
 layout: post
 title: "learn-javascript-from-ruanxuefeng-day01"
 date: 2016-06-15 19-57-12
-categories: Javascript
+categories: Javascript 阮雪峰
 tags: Javascript 阮雪峰 study-notes technology
 ---
 
@@ -11,4 +11,4 @@ tags: Javascript 阮雪峰 study-notes technology
 
 ### 前端工具 
 
-[大前端的瑞士军刀]{https://github.com/nieweidong/fetool}
+[大前端的瑞士军刀](https://github.com/nieweidong/fetool)
