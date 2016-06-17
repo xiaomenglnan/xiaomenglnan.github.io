@@ -6,5 +6,5 @@ categories: Javascript
 tags: Javascript study-notes 阮一峰
 ---
 
-*content
+* content
 {:toc}
