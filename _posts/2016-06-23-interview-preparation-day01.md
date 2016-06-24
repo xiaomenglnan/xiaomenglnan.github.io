@@ -44,10 +44,11 @@ UI元素转换特征以消除可能不符合要求的元素，来缓解这些元
 	
 <font color="#F095BC">安全性:</font>
 
-先百度几个不知道意思的词，SQL注入：所谓SQL注入，就是通过把SQL命令插入到Web表单提交或输入域名或页面请求的查询字符串，最终达到欺骗服务器执行恶意
+先百度几个不知道意思的词，[SQL注入](http://baike.baidu.com/link?url=w7qyuWKP-20FL29eLg6Xzac50g_ZYdyjkKv1rNYqyT5IcbLI2hzQVaGraIU1D3xmE6a3cL10BTw4Wq8plahUxK)：所谓SQL注入，就是通过把SQL命令插入到Web表单提交或输入域名或页面请求的查询字符串，最终达到欺骗服务器执行恶意
 的SQL命令。具体来说，它是利用应用程序，将（恶意）的SQL命令注入到后台数据引擎执行的能力，它可以通过在Web表单中输入（恶意）SQL语句得到一个存在一
 个存在安全漏洞的网站上的数据库，而不是按照设计者意图去执行SQL语句。比如先前的很多影视网站泄露VIP会员密码大多就是通过WEB表单递交查询字符暴出的，
-这类表单特别容易受到[SQL注入式攻击](http://baike.baidu.com/view/195362.htm)。
+这类表单特别容易受到[SQL注入式攻击](http://baike.baidu.com/view/195362.htm)；[XSS](http://baike.baidu.com/link?url=66sDZyfb6sasAwjt8rO21Z43S5T08sh1GoYHvEFebDjJUevUcRt0IYRu7SfXZ_p2KfLsl82ASa9qiZ4JsM8I2a)：跨站脚本攻击(Cross Site Scripting),为不和层叠样式表(Cascading Style Sheets,CSS)的缩写混淆，
+故将跨站脚本攻击缩写为XSS，恶意攻击者往Web页面里插入恶意Script代码，当用户浏览该页之时，嵌入其中Web里面的Script代码会被执行，从而达到恶意攻击用户的特殊目的。
 
 	* 防止SQL注入
 	
