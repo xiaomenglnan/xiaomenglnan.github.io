@@ -9,7 +9,7 @@ tags: front-interview preparation questions answers thoughts
 * content
 {:toc}
 
-### 1.<font color="#14DCB4">在制作一个网页应用或网站的过程中，你是如何考虑其UI、安全性、高性能、SEO、可维护性以及技术因素的？</font
+### 1.<font color="#F095BC">在制作一个网页应用或网站的过程中，你是如何考虑其UI、安全性、高性能、SEO、可维护性以及技术因素的？</font>
 
 我并不知道SEO是什么，所以先百度一下，是这么说的：[SEO](http://baike.baidu.com/view/1047.htm)是由英文Search Engine Optimization缩写而来，中文意译为
 "[搜索引擎](http://baike.baidu.com/view/1154.htm)优化"。[SEO](http://baike.baidu.com/view/1047.htm)是指通过对[网站](http://baike.baidu.com/subview/4232/18338514.htm)内部调整优化及[站外优
