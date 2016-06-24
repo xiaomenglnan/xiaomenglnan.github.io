@@ -40,9 +40,7 @@ UI元素转换特征以消除可能不符合要求的元素，来缓解这些元
 	* 应该在服务器端进行数据验证
 	* 通过加密连接管理网站
 	
-    安全性: 
-
-	先百度几个不知道意思的词，
+    安全性:先百度几个不知道意思的词，
 
 	* [SQL注入](http://baike.baidu.com/link?url=w7qyuWKP-20FL29eLg6Xzac50g_ZYdyjkKv1rNYqyT5IcbLI2hzQVaGraIU1D3xmE6a3cL10BTw4Wq8plahUxK)：所谓SQL注入，就是通过把SQL命令插入到Web表单提交或输入域名或页面请求的查询字符串，最终达到欺骗服务器执行恶意
 	的SQL命令。具体来说，它是利用应用程序，将（恶意）的SQL命令注入到后台数据引擎执行的能力，它可以通过在Web表单中输入（恶意）SQL语句得到一个存在一
