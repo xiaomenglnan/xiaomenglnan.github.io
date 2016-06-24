@@ -20,7 +20,7 @@ tags: front-interview preparation questions answers thoughts
 
 UI:
 
-Depending on your audience,accessibility can be your biggest challenge and resources such as http://a11yproject.com are great in suggesting patterns to achieve whats needed.Beyond that,a pleasant palette and intuitive interfaces are the foundation,
+	* Depending on your audience,accessibility can be your biggest challenge and resources such as http://a11yproject.com are great in suggesting patterns to achieve whats needed.Beyond that,a pleasant palette and intuitive interfaces are the foundation,
 which arise from well developed style guides containing code snippets that help developers quickly deliver features with pre-themed UI elements tha alleviate common pain points such as non-conforming elements that may distract stake holders during the 
 iteration and approval process.
 
