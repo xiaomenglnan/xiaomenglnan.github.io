@@ -60,7 +60,11 @@ UI元素转换特征以消除可能不符合要求的元素，来缓解这些元
 
 	* When it comes to SEO, I refer to my approach as “the new old school.” That is, I don’t believe there is any “magic in your meta” tags and I encourage business owners to simply create content that is relevant to your business, write clearly and often, advertise when necessary, make sure your site is mobile 
 	friendly, that sharing your content is easy, and you have control of your Google, Twitter, Facebook, Yahoo, Bing, Foursquare, Pinterest, Instagram (insert hot new here…) accounts, and everything really does fall into place. As your business grows, more visitors come, more people share and the search engines notice.
-
+	
+	SEO：
+	
+	* 提到SEO，我把我的方法称为“新的老学校“。那就是，我不相信有什么”meta标签魔法“，并且我会鼓励企业所有人仅仅写和你的企业有关的内容就好了，清楚的写，经常写，在必要的时候做做广告，确保你的网站是移动端有好的，这样可以确保分享你的内容很容易，你也要控制你的Google,Twitter,Facebook,Yahoo,Bing,Foursquare,Pinterest,Instagram(在这
+	发布一些炫酷的新奇的东西)账户，确保一切都真的井然有序。随着企业的成长，更多的浏览者会光临，更多的人会分享，搜索引擎就会注意到。
 	
 
 		
