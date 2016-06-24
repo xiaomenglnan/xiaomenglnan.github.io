@@ -48,7 +48,9 @@ UI元素转换特征以消除可能不符合要求的元素，来缓解这些元
 的SQL命令。具体来说，它是利用应用程序，将（恶意）的SQL命令注入到后台数据引擎执行的能力，它可以通过在Web表单中输入（恶意）SQL语句得到一个存在一
 个存在安全漏洞的网站上的数据库，而不是按照设计者意图去执行SQL语句。比如先前的很多影视网站泄露VIP会员密码大多就是通过WEB表单递交查询字符暴出的，
 这类表单特别容易受到[SQL注入式攻击](http://baike.baidu.com/view/195362.htm)；[XSS](http://baike.baidu.com/link?url=66sDZyfb6sasAwjt8rO21Z43S5T08sh1GoYHvEFebDjJUevUcRt0IYRu7SfXZ_p2KfLsl82ASa9qiZ4JsM8I2a)：跨站脚本攻击(Cross Site Scripting),为不和层叠样式表(Cascading Style Sheets,CSS)的缩写混淆，
-故将跨站脚本攻击缩写为XSS，恶意攻击者往Web页面里插入恶意Script代码，当用户浏览该页之时，嵌入其中Web里面的Script代码会被执行，从而达到恶意攻击用户的特殊目的。
+故将跨站脚本攻击缩写为XSS，恶意攻击者往Web页面里插入恶意Script代码，当用户浏览该页之时，嵌入其中Web里面的Script代码会被执行，从而达到恶意攻击用户的特殊目的；[CSRF](http://baike.baidu.com/link?url=rHCHqVmFqqcWN-RCODaSXG45IOYRSV0n14LcHY2_WHCsnJ8sFeNg_FtkSu3uqhhwhv0WscaR6liuMySqv80NWq)：跨站请求伪造(Cross-site request forgery)，
+也被称为"One Click Attack"或者Session Riding，通常缩写为CSRF或者XSRF，是一种对网站的恶意利用。尽管听起来像跨站脚本(XSS)，但它与XSS非常不同，并且攻击方式几乎相左。XSS利用站点内的信任用户，而CSRF则通过伪装来自受信任用户的请求来利用受信任的网站。与XSS攻击相比，CSRF攻击往往不大流行（因此对其进行防范的资源也
+相对稀少)和难以防范，所以被认为比XSS更具危险性。
 
 	* 防止SQL注入
 	
