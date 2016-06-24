@@ -26,11 +26,13 @@ UI:根据你的受众，可访问性是最大的挑战，为了获得所需资�
 UI元素转换特征以消除可能不符合要求的元素，来缓解这些元素在迭代和审批流程中常见的让股权所有者失去兴趣的痛点。
 
 Security:
-*    Login pages should be encrypted
-*    Data validation should be done server-side
-*    Manage your Web site via encrypted connections
+
+	* Login pages should be encrypted
+	* Data validation should be done server-side
+	* Manage your Web site via encrypted connections
 
 安全性：
+
 	*登录页面应该加密
 	*应该在服务器端进行数据验证
 	*通过加密连接管理网站
