@@ -34,13 +34,13 @@ UI元素转换特征以消除可能不符合要求的元素，来缓解这些元
 	* Data validation should be done server-side
 	* Manage your Web site via encrypted connections
 
-<font color="#F095BC">安全性:</font>
+    安全性:
 
 	* 登录页面应该加密
 	* 应该在服务器端进行数据验证
 	* 通过加密连接管理网站
 	
-<font color="#F095BC">安全性:</font>
+    安全性: 
 
 先百度几个不知道意思的词，
 
