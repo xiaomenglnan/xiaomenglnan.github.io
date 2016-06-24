@@ -25,8 +25,6 @@ tags: front-interview preparation questions answers thoughts
 which arise from well developed style guides containing code snippets that help developers quickly deliver features with pre-themed UI elements tha alleviate common pain points such as non-conforming elements that may distract stake holders during the 
 iteration and approval process.
 
-<font color="#F095BC">UI:</font>
-
 	* 根据你的受众，可访问性是最大的挑战，为了获得所需资源，形如http://a11yproject.com的可采用模式是非常不错的选择。除此之外，一个宜人的调色板和直观的界面起到基础性的作用。这要归功于优良的开发样式指导，其中包含的代码片段可以帮助开发者们迅速的用预定义主题的
 UI元素转换特征以消除可能不符合要求的元素，来缓解这些元素在迭代和审批流程中常见的让股权所有者失去兴趣的痛点。
 
