@@ -70,7 +70,23 @@ UI元素转换特征以消除可能不符合要求的元素，来缓解这些元
 	
 	* 域名选择要正确，网站标题优化(一般是把关键字嵌入到title里面，但是分隔符一定要注意，谷歌识别的是字母“，”，百度识别的是“_”)，关键字和描述的优化(不能频繁更改，而且密度不能过高，保持10%以下)，网站结构优化（尽量不要使用table），图片的title和alt属性优化，站内链接优化（做到无死链），适当主动提交搜索引擎入口（http://tool.lusongsong.com/addurl.html），
 	友情链接，当然还有些非技术的方法。
+
+<font color="#F095BC">Maintainability and Technology Considerations:</font>
+
+	* Use tooling that is more flexible and adhere’s to a standard. A great example of this is PostCSS, where the concept is, you write plain old CSS – and NEW CSS as well, including syntax not yet implemented in browsers and let a plugin process your css and manipulate the output so it’s browser ready. Then as time passes, W3C syntax is agreed upon, 
+	pre-fix use subsides, and you can re-process your CSS with less and less manipulation.
 	
+	可维护性以及技术因素的考虑:
+	
+	* 使用更灵活、更符合标准的工具。一个典型的例子就是PostCss,它的概念就是，你写普通的老旧的CSS，同时也写新的CSS，其中包括在浏览器端还没有实现的语法，这时你让插件处理你的CSS并让它控制输出知道浏览器准备好了。接着，随着时间的流逝，W3C语法受到认可，前缀用法被淘汰，你就可以用越来越少的控制预处理你的CSS。
+	
+	可维护性：Aneuan简短的回答
+	
+	* 代码编写规范，注释明确，扩展性强
+	
+	技术因素：Aneuan简短的回答
+	
+	* 根据不同性质的网站要选择不同的框架
 
 		
 		
