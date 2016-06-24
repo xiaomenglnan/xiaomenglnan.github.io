@@ -9,7 +9,7 @@ tags: front-interview preparation questions answers thoughts
 * content
 {:toc}
 
-本文中的答案，整理自[Peter Dillon](http://peterdoes.it/) from [Adecco Group NA](http://www.adecco.com/default.aspx)、[paddingme](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/4.md) from Github、[Aneuan](http://aneuan.sinaapp.com/blog/158/).
+本文中的答案，整理自[Peter Dillon](http://peterdoes.it/) from [Adecco Group NA](http://www.adecco.com/default.aspx)、[paddingme](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/4.md) from Github、[Aneuan](http://aneuan.sinaapp.com/blog/158/)、
 以及[砸牛顿的大苹果的果园](https://stenders.github.io/)。
 ### <font color="#F095BC">1.在制作一个网页应用或网站的过程中，你是如何考虑其UI、安全性、高性能、SEO、可维护性以及技术因素的？</font>
 
