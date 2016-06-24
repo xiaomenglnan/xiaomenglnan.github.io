@@ -9,7 +9,7 @@ tags: front-interview preparation questions answers thoughts
 * content
 {:toc}
 
-#### <font color="#F095BC">本文中的答案，整理自[Peter Dillon](http://peterdoes.it/)以及[paddingme](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/前端试题/4.md).</font>
+#### <font color="#F095BC">本文中的答案，整理自[Peter Dillon](http://peterdoes.it/)以及[paddingme](https://github.com/paddingme/Front-end-Web-Development-Interview-Question/blob/master/)前端试题/4.md).</font>
 
 ### <font color="#F095BC">1.在制作一个网页应用或网站的过程中，你是如何考虑其UI、安全性、高性能、SEO、可维护性以及技术因素的？</font>
 
