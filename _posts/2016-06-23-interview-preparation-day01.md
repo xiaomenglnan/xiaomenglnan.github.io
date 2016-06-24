@@ -55,6 +55,11 @@ UI元素转换特征以消除可能不符合要求的元素，来缓解这些元
 [CSRF](http://baike.baidu.com/link?url=rHCHqVmFqqcWN-RCODaSXG45IOYRSV0n14LcHY2_WHCsnJ8sFeNg_FtkSu3uqhhwhv0WscaR6liuMySqv80NWq)：跨站请求伪造(Cross-site request forgery)，
 	也被称为"One Click Attack"或者Session Riding，通常缩写为CSRF或者XSRF，是一种对网站的恶意利用。尽管听起来像跨站脚本(XSS)，但它与XSS非常不同，并且攻击方式几乎相左。XSS利用站点内的信任用户，而CSRF则通过伪装来自受信任用户的请求来利用受信任的网站。与XSS攻击相比，CSRF攻击往往不大流行（因此对其进行防范的资源也
 	相对稀少)和难以防范，所以被认为比XSS更具危险性。
+	
+<font color="#F095BC">SEO:</font>
+
+	* When it comes to SEO, I refer to my approach as “the new old school.” That is, I don’t believe there is any “magic in your meta” tags and I encourage business owners to simply create content that is relevant to your business, write clearly and often, advertise when necessary, make sure your site is mobile 
+	friendly, that sharing your content is easy, and you have control of your Google, Twitter, Facebook, Yahoo, Bing, Foursquare, Pinterest, Instagram (insert hot new here…) accounts, and everything really does fall into place. As your business grows, more visitors come, more people share and the search engines notice.
 
 	
 
