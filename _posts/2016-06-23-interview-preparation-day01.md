@@ -19,24 +19,24 @@ tags: front-interview preparation questions answers thoughts
 化](http://baike.baidu.com/view/5081047.htm)，使网站满足[搜索引擎收录](http://baike.baidu.com/view/1154.htm)排名需求，在搜索引擎中提高[关键词](http://baike.baidu.com/subview/10083/14670061.htm)
 排名，从而把精准用户带到网站，获得[免费流量](http://baike.baidu.com/view/12087042.htm),产生直接销售或[品牌推广](http://baike.baidu.com/subview/280567/19228712.htm)。
 
-UI:
+<font color="#F095BC">UI:</font>
 
 	* Depending on your audience,accessibility can be your biggest challenge and resources such as http://a11yproject.com are great in suggesting patterns to achieve whats needed.Beyond that,a pleasant palette and intuitive interfaces are the foundation,
 which arise from well developed style guides containing code snippets that help developers quickly deliver features with pre-themed UI elements tha alleviate common pain points such as non-conforming elements that may distract stake holders during the 
 iteration and approval process.
 
-UI:
+<font color="#F095BC">UI:</font>
 
 	* 根据你的受众，可访问性是最大的挑战，为了获得所需资源，形如http://a11yproject.com的可采用模式是非常不错的选择。除此之外，一个宜人的调色板和直观的界面起到基础性的作用。这要归功于优良的开发样式指导，其中包含的代码片段可以帮助开发者们迅速的用预定义主题的
 UI元素转换特征以消除可能不符合要求的元素，来缓解这些元素在迭代和审批流程中常见的让股权所有者失去兴趣的痛点。
 
-Security:
+<font color="#F095BC">Security:</font>
 
 	* Login pages should be encrypted
 	* Data validation should be done server-side
 	* Manage your Web site via encrypted connections
 
-安全性：
+<font color="#F095BC">安全性:</font>
 
 	* 登录页面应该加密
 	* 应该在服务器端进行数据验证
