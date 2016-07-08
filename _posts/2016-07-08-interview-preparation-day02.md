@@ -14,6 +14,7 @@ tags: front interview github day02
 @font-face{
 font-family:Helvetica Bold;
 src:url('../Helvetica/Helvetica Bold.ttf');
+format('embedded-opentype');
 }
 </style>
 <p style="font-family:Helvetica Bold">Typically</p>
