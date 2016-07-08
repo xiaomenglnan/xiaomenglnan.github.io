@@ -10,7 +10,12 @@ tags: front interview github day02
 {:toc}
 
 ### <font color="#f095bc">请谈谈你喜欢的开发环境</font>
-
+<style>
+@font-face{
+font-family:Helvetica;
+src:url('../Helvetica/Helvetica.ttf');
+}
+</style>
 <p style="font-family:Helvetica">Typically</p>
     
 
