@@ -11,7 +11,7 @@ tags: front interview github day02
 
 ### <font color="#f095bc">请谈谈你喜欢的开发环境</font>
 
-<font style="Helvetica">Typically</font>
+<p style="font-family:Helvetica">Typically</p>
     
 
     
