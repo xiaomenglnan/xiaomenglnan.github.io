@@ -17,6 +17,7 @@ src:url('../Helvetica/Helvetica.ttf');
 }
 </style>
 <p style="font-family:Helvetica">Typically</p>
-    
+<p style="font-family:Microsoft Yahei">Typically</p>
+<p style="font-family:">Typically</p>  
 
     
