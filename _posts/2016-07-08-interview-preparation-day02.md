@@ -13,7 +13,7 @@ tags: front interview github day02
 <style>
 @font-face{
 font-family:Open Sans Regular;
-src:url('../css/font/Opensans-Regular.ttf');
+src:url('../css/font/OpenSans-Regular.ttf');
 format('truetype');
 }
 </style>
