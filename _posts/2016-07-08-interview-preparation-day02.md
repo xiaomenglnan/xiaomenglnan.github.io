@@ -13,7 +13,7 @@ tags: front interview github day02
 <style>
 @font-face{
 font-family:Helvetica;
-src:url('../Helvetica/Helvetica.ttf');
+src:url('../Helvetica/Helvetica Bold.ttf');
 }
 </style>
 <p style="font-family:Helvetica">Typically</p>
