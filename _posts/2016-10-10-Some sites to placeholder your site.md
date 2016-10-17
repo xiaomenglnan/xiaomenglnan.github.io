@@ -20,7 +20,11 @@ tags: front-end skills
 但是两个链接里面提到的很多链接已经失效，下面两个是我觉得比较高效、有趣的链接:
 
 * [placekitten.com](http://placekitten.com/)，这里有很多非常可爱的小猫，比如下面这一只：
-![http://placekitten.com/800/300](http://placekitten.com/800/300),可以设置img的src为http://placekitten.com/800/300。
+![http://placekitten.com/800/300](http://placekitten.com/800/300)
+
+可以设置img的src为http://placekitten.com/800/300。
 
 * [placeimg.com](https://placeimg.com)，这里有几种类型的placeholder可供选择，比如下面这张：
-![https://placeimg.com/640/480/any/sepia](https://placeimg.com/640/480/any/sepia)，可以设置src为https://placeimg.com/640/480/any/sepia。
+![https://placeimg.com/640/480/any/sepia](https://placeimg.com/640/480/any/sepia)
+
+可以设置src为https://placeimg.com/640/480/any/sepia。
