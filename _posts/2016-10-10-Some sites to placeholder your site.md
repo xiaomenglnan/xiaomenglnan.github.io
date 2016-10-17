@@ -25,6 +25,6 @@ tags: front-end skills
 可以设置img的src为http://placekitten.com/800/300。
 
 * [placeimg.com](https://placeimg.com)，这里有几种类型的placeholder可供选择，比如下面这张：
-![https://placeimg.com/640/480/any/sepia](https://placeimg.com/800/300/any/sepia)
+![https://placeimg.com/800/300/any/sepia](https://placeimg.com/800/300/any/sepia)
 
 可以设置src为https://placeimg.com/640/480/any/sepia。
